@@ -1,9 +1,9 @@
-@charset "UTF-8";
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
 body, html {
   padding: 0;
   margin: 0;
   width: 100%;
-  font-family: '微軟正黑體',serif;
+  font-family: "Noto Sans TC", sans-serif;
 }
 
 ul {
