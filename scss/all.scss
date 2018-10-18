@@ -299,7 +299,7 @@ footer{
           box-sizing: border-box;
           flex-direction: row;
           align-items: center;
-          font-size: 22px;
+          font-size: 18px;
           border-right: none;
           border-bottom: 1px solid #eee;
           &:last-child{
@@ -317,8 +317,8 @@ footer{
             right: 5%;
           }
           span{
-            font-size: 32px;
-            margin-right: 30px;
+            font-size: 26px;
+            margin-right: 40px;
           }
         }
       }
